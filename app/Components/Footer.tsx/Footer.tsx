@@ -16,23 +16,24 @@ const Footer = () => {
             {/* Brand Column */}
             <div className="lg:col-span-4">
               {/* Logo */}
-              <Link href="/" className="inline-block mb-6">
-                <div className="bg-white rounded px-3 pe-5 py-2">
-                  <h1 className="text-3xl font-bold text-black tracking-widest">
-                    Pola
+              <Link
+                href="/"
+                aria-label="Pola homepage"
+                className="group relative flex items-center gap-3"
+              >
+                <div className="hidden leading-none min-[400px]:block">
+                  <h1 className="text-[24px] font-black tracking-[0.2em] text-white">
+                    POLA
                   </h1>
+
+                  <span className="mt-1 block text-[10px] font-semibold uppercase tracking-[0.38em] text-neutral-400">
+                    Modern Essentials
+                  </span>
                 </div>
               </Link>
 
-              {/* Description */}
-              <p className="text-gray-400 text-sm leading-relaxed mb-6">
-                Your premium destination for fashion and lifestyle. Discover the
-                latest trends and elevate your style with our curated
-                collections.
-              </p>
-
               {/* Contact */}
-              <div className="space-y-4">
+              <div className="space-y-4 mt-10">
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 rounded-full bg-gray-900 flex items-center justify-center">
                     <Icon

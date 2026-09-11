@@ -19,8 +19,7 @@ const navLinks: NavLink[] = [
   { label: "Men's", href: "/Pages/MensProducts" },
   { label: "Women's", href: "/Pages/WomensProduct" },
   { label: "Shoes", href: "/Pages/ShoesProduct" },
-  { label: "Collections", href: "/Pages/Collections" },
-  { label: "Blogs", href: "/Pages/Blogs" },
+  
 ];
 
 const normalizePath = (path: string) => {
