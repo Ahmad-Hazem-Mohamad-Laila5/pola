@@ -1,0 +1,222 @@
+[
+  {
+    "id": "wm1",
+    "image": "/women-product1.jpg",
+    "secondImage": "",
+    "brand": "Cerveo",
+    "title": "4th & Reckless halter neck d-ring jumpsuit in Blue",
+    "lessPrice": "$55.00",
+    "price": "$33.00",
+    "off": "-40% OFF"
+  },
+  {
+    "id": "wm2",
+    "image": "/women-product2.webp",
+    "secondImage": "/women-product3.webp",
+    "brand": "Iguera",
+    "title": "Crew neck ribbed body in camel",
+    "lessPrice": "",
+    "price": "$75.00",
+    "off": ""
+  },
+  {
+    "id": "wm3",
+    "image": "/women-product4.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Crop mesh top with cap sleeve in horoscope print",
+    "lessPrice": "",
+    "price": "$75.00",
+    "off": ""
+  },
+  {
+    "id": "wm4",
+    "image": "/women-product5.jpg",
+    "secondImage": "",
+    "brand": "Cerveo",
+    "title": "Fashion Union Plus tea dress in floral",
+    "lessPrice": "",
+    "price": "$55.00",
+    "off": ""
+  },
+  {
+    "id": "wm5",
+    "image": "/women-product6.jpg",
+    "secondImage": "",
+    "brand": "Cerveo",
+    "title": "Fashion Union Tall mini dress with high halter neck in ditsy floral",
+    "lessPrice": "",
+    "price": "$62.00",
+    "off": ""
+  },
+  {
+    "id": "wm6",
+    "image": "/women-product7.jpg",
+    "secondImage": "",
+    "brand": "Guaraxu",
+    "title": "Fashion Union Tall ruched front mini dress in floral",
+    "lessPrice": "$58.00",
+    "price": "$42.00",
+    "off": "-28% OFF"
+  },
+  {
+    "id": "wm7",
+    "image": "/women-product8.jpg",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "Floral embroidered halter prom midi dress",
+    "lessPrice": "",
+    "price": "$35.00",
+    "off": ""
+  },
+  {
+    "id": "wm8",
+    "image": "/women-product9.jpg",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "Joan cut out lace & microfibre underwired bodysuit",
+    "lessPrice": "$39.00",
+    "price": "$35.00",
+    "off": "-21% OFF"
+  },
+  {
+    "id": "wm9",
+    "image": "/women-product10.jpg",
+    "secondImage": "",
+    "brand": "Iguera",
+    "title": "Look slogan cherry sweet tee in white",
+    "lessPrice": "",
+    "price": "$48.00",
+    "off": ""
+  },
+  {
+    "id": "wm10",
+    "image": "/women-product11.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Maternity nursing short sleeve top with button detail",
+    "lessPrice": "$98.00",
+    "price": "$58.00",
+    "off": "-41% OFF"
+  },
+  {
+    "id": "wm11",
+    "image": "/women-product12.jpg",
+    "secondImage": "",
+    "brand": "Guaraxu",
+    "title": "Maternity ultimate jersey peg trousers",
+    "lessPrice": "",
+    "price": "$89.00",
+    "off": ""
+  },
+  {
+    "id": "wm12",
+    "image": "/women-product13.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Missguided longline denim shorts in blue",
+    "lessPrice": "",
+    "price": "$74.00",
+    "off": ""
+  },
+  {
+    "id": "wm13",
+    "image": "/women-product14.webp",
+    "secondImage": "",
+    "brand": "Quisuito",
+    "title": "Noisy May Petite stripe linen playsuit",
+    "lessPrice": "$78.00",
+    "price": "$45.00",
+    "off": "-40% OFF"
+  },
+  {
+    "id": "wm14",
+    "image": "/women-product15.webp",
+    "secondImage": "",
+    "brand": "Quisuito",
+    "title": "Palm tree print pyjamas set in white pattern",
+    "lessPrice": "",
+    "price": "$45.00",
+    "off": ""
+  },
+  {
+    "id": "wm15",
+    "image": "/women-product16.webp",
+    "secondImage": "",
+    "brand": "Quisuito",
+    "title": "Petite wrap top in plisse with batwing sleeve",
+    "lessPrice": "",
+    "price": "$98.00",
+    "off": ""
+  },
+  {
+    "id": "wm16",
+    "image": "/women-product17.webp",
+    "secondImage": "/women-product18.webp",
+    "brand": "Iguera",
+    "title": "Short sleeve maternity nursing top with button detail",
+    "lessPrice": "$98.00",
+    "price": "$58.00",
+    "off": "-41% OFF"
+  },
+  {
+    "id": "wm17",
+    "image": "/women-product19.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Tall Florence authentic straight leg jeans in washed black",
+    "lessPrice": "$25.00",
+    "price": "$15.00",
+    "off": "-21% OFF"
+  },
+  {
+    "id": "wm18",
+    "image": "/women-product20.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Tall high neck top in mesh with puff sleeve",
+    "lessPrice": "",
+    "price": "$48.00",
+    "off": ""
+  },
+  {
+    "id": "wm19",
+    "image": "/women-product21.jpg",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "The East Order behati short sleeve floral mini dress",
+    "lessPrice": "",
+    "price": "$68.00",
+    "off": ""
+  },
+  {
+    "id": "wm20",
+    "image": "/women-product22.webp",
+    "secondImage": "/women-product23.webp",
+    "brand": "Dumark",
+    "title": "Training printed legging in purple",
+    "lessPrice": "$98.00",
+    "price": "$59.00",
+    "off": "-41% OFF"
+  },
+  {
+    "id": "wm21",
+    "image": "/women-product24.jpg",
+    "secondImage": "",
+    "brand": "Iguera",
+    "title": "Training Trefoil halter tank in white",
+    "lessPrice": "",
+    "price": "$59.00",
+    "off": ""
+  },
+  {
+    "id": "wm22",
+    "image": "/women-product25.jpg",
+    "secondImage": "",
+    "brand": "Guaraxu",
+    "title": "Union Tall linen double breasted blazer co-ord",
+    "lessPrice": "",
+    "price": "$78.00",
+    "off": ""
+  }
+]

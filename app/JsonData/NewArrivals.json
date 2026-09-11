@@ -1,0 +1,62 @@
+[
+  {
+    "id": "newA1",
+    "image": "/NewArrival-1.webp",
+    "secondImage": "/NewArrival-2.webp",
+    "brand": "Iguera",
+    "title": "Short sleeve maternity  top with button detail",
+    "lessPrice": "$98.00",
+    "price": "$85.00",
+    "off": "-40% oFF"
+  },
+  {
+    "id": "newA2",
+    "image": "/NewArrival-3.webp",
+    "secondImage": "/NewArrival-4.webp",
+    "brand": "Dumark",
+    "title": "Training printed legging in purple",
+    "lessPrice": "$99.00",
+    "price": "$87.00",
+    "off": "-41% oFF"
+  },
+  {
+    "id": "newA3",
+    "image": "/NewArrival-5.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Maternity nursing short top with button detail",
+    "lessPrice": "$95.00",
+    "price": "$81.00",
+    "off": "-35% oFF"
+  },
+  {
+    "id": "newA4",
+    "image": "/NewArrival-6.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Tall high neck top in mesh with puff sleeve",
+    "lessPrice": "",
+    "price": "$80.00",
+    "off": ""
+  },
+  {
+    "id": "newA5",
+    "image": "/NewArrival-7.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Crop mesh top with cap sleeve in horoscope print",
+    "lessPrice": "",
+    "price": "$75.00",
+    "off": ""
+  },
+  {
+    "id": "newA6",
+    "image": "/NewArrival-8.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Tall Florence authentic leg jeans in washed black",
+    "lessPrice": "$35.00",
+    "price": "$22.00",
+    "off": "-31% oFF"
+  }
+]

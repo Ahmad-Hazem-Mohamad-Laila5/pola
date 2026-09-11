@@ -1,0 +1,99 @@
+[
+  {
+    "id": "r1",
+    "image": "/Mens-product1.jpg",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "3-Stripes Full Zip Hoodie",
+    "lessPrice": "",
+    "price": "$65.00",
+    "off": ""
+  },
+  {
+    "id": "r2",
+    "image": "/NewArrival-1.webp",
+    "secondImage": "/NewArrival-2.webp",
+    "brand": "Iguera",
+    "title": "Short sleeve maternity  top with button detail",
+    "lessPrice": "$98.00",
+    "price": "$85.00",
+    "off": "-40% oFF"
+  },
+  {
+    "id": "r3",
+    "image": "/Shoes21.webp",
+    "brand": "Dumark",
+    "title": "Wide Fit loafers in burgundy faux suede with tassel",
+    "price": "$110.00"
+  },
+  {
+    "id": "r4",
+    "image": "/women-product4.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Crop mesh top with cap sleeve in horoscope print",
+    "lessPrice": "",
+    "price": "$75.00",
+    "off": ""
+  },
+  {
+    "id": "r5",
+    "image": "/Mens-product5.webp",
+    "secondImage": "",
+    "brand": "Cerveo",
+    "title": "Dry Academy Pants KPZ",
+    "lessPrice": "$67.00",
+    "price": "$52.00",
+    "off": "-31% oFF"
+  },
+  {
+    "id": "r6",
+    "image": "/NewArrival-6.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Tall high neck top in mesh with puff sleeve",
+    "lessPrice": "",
+    "price": "$80.00",
+    "off": ""
+  },
+  {
+    "id": "r7",
+    "image": "/women-product8.jpg",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "Floral embroidered halter prom midi dress",
+    "lessPrice": "",
+    "price": "$35.00",
+    "off": ""
+  },
+  {
+    "id": "r8",
+    "image": "/women-product15.webp",
+    "secondImage": "",
+    "brand": "Quisuito",
+    "title": "Palm tree print pyjamas set in white pattern",
+    "lessPrice": "",
+    "price": "$45.00",
+    "off": ""
+  },
+  {
+    "id": "r9",
+    "image": "/Mens-product11.jpg",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "ISO Chill Shore Break Camo Hoodie",
+    "lessPrice": "$75.00",
+    "price": "$65.00",
+    "off": "35% OFF"
+  },
+  {
+    "id": "r10",
+    "image": "/NewArrival-8.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Tall Florence authentic leg jeans in washed black",
+    "lessPrice": "$35.00",
+    "price": "$22.00",
+    "off": "-31% oFF"
+  }
+]

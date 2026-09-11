@@ -1,0 +1,222 @@
+[
+  {
+    "id": "m1",
+    "image": "/Mens-product1.jpg",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "3-Stripes Full Zip Hoodie",
+    "lessPrice": "",
+    "price": "$65.00",
+    "off": ""
+  },
+  {
+    "id": "m2",
+    "image": "/Mens-product2.jpg",
+    "secondImage": "/Mens-product3.jpg",
+    "brand": "Iguera",
+    "title": "AFS Tiro jersey white with black stripes",
+    "lessPrice": "$65.00",
+    "price": "$55.00",
+    "off": "-31% oFF"
+  },
+  {
+    "id": "m3",
+    "image": "/Mens-product4.webp",
+    "secondImage": "",
+    "brand": "Iguera",
+    "title": "Dropped shoulder jumper in landscape knit",
+    "lessPrice": "",
+    "price": "$65.00",
+    "off": ""
+  },
+  {
+    "id": "m4",
+    "image": "/Mens-product5.webp",
+    "secondImage": "",
+    "brand": "Cerveo",
+    "title": "Dry Academy Pants KPZ",
+    "lessPrice": "$67.00",
+    "price": "$52.00",
+    "off": "-31% oFF"
+  },
+  {
+    "id": "m5",
+    "image": "/Mens-product6.jpg",
+    "secondImage": "/Mens-product7.webp",
+    "brand": "Cerveo",
+    "title": "Dry Cool Miler Top Short Sleeve",
+    "lessPrice": "",
+    "price": "$62.00",
+    "off": ""
+  },
+  {
+    "id": "m6",
+    "image": "/Mens-product8.jpg",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "Dry Hoodie Full Zip Hyperdry Transcend Lt",
+    "lessPrice": "",
+    "price": "$67.00",
+    "off": ""
+  },
+  {
+    "id": "m7",
+    "image": "/Mens-product9.webp",
+    "secondImage": "",
+    "brand": "Quisuito",
+    "title": "Five-Pocket Golf Shorts",
+    "lessPrice": "",
+    "price": "$68.00",
+    "off": ""
+  },
+  {
+    "id": "m8",
+    "image": "/Mens-product10.webp",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Golf Nineties Polo Shirt",
+    "lessPrice": "",
+    "price": "$65.00",
+    "off": ""
+  },
+  {
+    "id": "m9",
+    "image": "/Mens-product11.jpg",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "ISO Chill Shore Break Camo Hoodie",
+    "lessPrice": "$75.00",
+    "price": "$65.00",
+    "off": "35% OFF"
+  },
+  {
+    "id": "m10",
+    "image": "/Mens-product12.jpg",
+    "secondImage": "",
+    "brand": "Iguera",
+    "title": "Liga Shorts Expedite Material",
+    "lessPrice": "",
+    "price": "$60.00",
+    "off": ""
+  },
+  {
+    "id": "m11",
+    "image": "/Mens-product13.webp",
+    "secondImage": "",
+    "brand": "Cerveo",
+    "title": "NSW Windrunner Hoodie Jacket",
+    "lessPrice": "",
+    "price": "$50.00",
+    "off": ""
+  },
+  {
+    "id": "m12",
+    "image": "/Mens-product14.webp",
+    "secondImage": "",
+    "brand": "Dumark",
+    "title": "Plus knitted sheer mesh jumper in black",
+    "lessPrice": "",
+    "price": "$57.00",
+    "off": ""
+  },
+  {
+    "id": "m13",
+    "image": "/Mens-product15.jpg",
+    "secondImage": "",
+    "brand": "Quisuito",
+    "title": "Regola Sweatshirt Black",
+    "lessPrice": "$74.00",
+    "price": "$59.00",
+    "off": "40% OFF"
+  },
+  {
+    "id": "m14",
+    "image": "/Mens-product16.jpg",
+    "secondImage": "",
+    "brand": "Cerveo , Dumark",
+    "title": "SF T7 Track Pants",
+    "lessPrice": "$64.00",
+    "price": "$54.00",
+    "off": "30% OFF"
+  },
+  {
+    "id": "m15",
+    "image": "/Mens-product17.jpg",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "Sportstyle Terry Short Sleeve Hoodie",
+    "lessPrice": "",
+    "price": "$64.00",
+    "off": ""
+  },
+  {
+    "id": "m16",
+    "image": "/Mens-product18.jpg",
+    "secondImage": "",
+    "brand": "Quisuito",
+    "title": "Superstar Track Top with contrast piping lines shoulders",
+    "lessPrice": "",
+    "price": "$72.00",
+    "off": ""
+  },
+  {
+    "id": "m17",
+    "image": "/Mens-product19.jpg",
+    "secondImage": "",
+    "brand": "Guaraxu",
+    "title": "Trefoil Tank Top",
+    "lessPrice": "",
+    "price": "$52.00",
+    "off": ""
+  },
+  {
+    "id": "m18",
+    "image": "/Mens-product20.jpg",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "UA Tac Heat Gear Compression Tee",
+    "lessPrice": "",
+    "price": "$48.00",
+    "off": ""
+  },
+  {
+    "id": "m19",
+    "image": "/Mens-product21.jpg",
+    "secondImage": "",
+    "brand": "Iguera",
+    "title": "UA Tech 1/2 Zip",
+    "lessPrice": "",
+    "price": "$51.00",
+    "off": ""
+  },
+  {
+    "id": "m20",
+    "image": "/Mens-product22.jpg",
+    "secondImage": "",
+    "brand": "Zenuro",
+    "title": "UFC Pullover Hoodie",
+    "lessPrice": "",
+    "price": "$55.00",
+    "off": ""
+  },
+  {
+    "id": "m21",
+    "image": "/Mens-product23.jpg",
+    "secondImage": "",
+    "brand": "Guaraxu",
+    "title": "Wild Pack AOP Shorts",
+    "lessPrice": "",
+    "price": "$42.00",
+    "off": ""
+  },
+  {
+    "id": "m22",
+    "image": "/Mens-product24.jpg",
+    "secondImage": "",
+    "brand": "Guaraxu",
+    "title": "Workout Ready Melange Double Knit Pant",
+    "lessPrice": "",
+    "price": "$53.00",
+    "off": ""
+  }
+]
